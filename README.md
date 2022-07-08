@@ -7,7 +7,7 @@ Scripting Language : **PHP**
 
 Database : **MySQL**
 
-Front-end : **html, css, js, BootStrap**
+Front-end : **HTML, CSS, JS, BootStrap**
 
 
 For more info on the project, go to [project report](https://github.com/SETRAZ/Sahara/blob/main/Group%2026_Sahara-E-commerce%20website.pdf).
